@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<g:radioGroup name="${1:grpName}" values="${2:values}" labels="${3:valueLabels}" value="${4:selectedValue}">
+	<label>
+		<span>${it.radio}</span>
+		${it.label}
+	</label>
+</g:radioGroup>]]></content>
+	<tabTrigger>gradiogroup</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Generates radio button groups</description>
+</snippet>

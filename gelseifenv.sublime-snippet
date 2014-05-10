@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[<g:elseif env="${1:development}" ${2:test="\${${3:true}\}"}>
+	$4
+</g:elseif>
+$0]]>
+	</content>
+	<tabTrigger>gelseifenv</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>The logical elseif tag for an environment</description>
+</snippet>

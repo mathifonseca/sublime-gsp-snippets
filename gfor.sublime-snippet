@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[<g:each in="\${(0..${1:n})}" var="${2:i}">
+	$3
+</g:each>
+$0]]>
+	</content>
+	<tabTrigger>gfor</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Uses the each tag with a range of numbers</description>
+</snippet>

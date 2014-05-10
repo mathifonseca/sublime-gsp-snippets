@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<g:render template="${1:templateNameNoUnderScoresNoExtension}" ${2:model="['${3:name}':${4:data}]"}/>
+]]></content>
+	<tabTrigger>grender</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Applies a template against a model</description>
+</snippet>

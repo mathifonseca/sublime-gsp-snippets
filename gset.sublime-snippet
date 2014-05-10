@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+		<![CDATA[<g:set var="${1:foo}" value="\${${2:bar}}" />
+$0]]>
+	</content>
+	<tabTrigger>gset</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Sets the value of a variable accessible with the GSP page</description>
+</snippet>

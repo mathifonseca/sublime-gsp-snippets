@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+		<![CDATA[<g:img dir="${1:images}" file="${2:logo}.${3:png}" />
+$0]]>
+	</content>
+	<tabTrigger>gimg</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Renders an HTML img tag for an image resource</description>
+</snippet>

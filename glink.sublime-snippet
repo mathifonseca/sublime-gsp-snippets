@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[<g:link controller="${1:book}" action="${2:show}" ${3:params="[${4:name}:${5:'Grails in Action'}]"}>
+	$6
+</g:link>
+$0]]>
+	</content>
+	<tabTrigger>glink</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Creates an html anchor tag with the href set based on the specified parameters</description>
+</snippet>
