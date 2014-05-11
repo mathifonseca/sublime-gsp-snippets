@@ -7,4 +7,4 @@ GSP Snippets:
 
   If you want to help us extend or modify anything, feel free to create a pull request or contact us.
 
-  For more information please visit https://github.com/mathifonseca/sublime-gsp
+  For more information please visit https://github.com/mathifonseca/sublime-gsp-snippets
