@@ -23,4 +23,4 @@ You can report anything using this repo's [issue section](https://github.com/mat
 
 Also, you can fork it and submit a [pull request](https://github.com/mathifonseca/sublime-gsp-snippets/pulls).
 
-And in case you need a more human touch, we are @mathifonseca and @agaleotti
+And in case you need a more human touch, you can contact [@mathifonseca](https://twitter.com/mathifonseca) or [@bToGaleotti](https://twitter.com/bToGaleotti)
