@@ -2,8 +2,7 @@
 	<content>
 		<![CDATA[<g:else>
 	$1
-</g:else>
-$0]]>
+</g:else>$0]]>
 	</content>
 	<tabTrigger>gelse</tabTrigger>
 	<scope>text.html.gsp</scope>

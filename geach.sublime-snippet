@@ -2,8 +2,7 @@
 	<content>
 		<![CDATA[<g:each in="\${${1:list}}" var="${2:item}">
 	$3
-</g:each>
-$0]]>
+</g:each>$0]]>
 	</content>
 	<tabTrigger>geach</tabTrigger>
 	<scope>text.html.gsp</scope>

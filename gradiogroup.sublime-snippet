@@ -5,7 +5,7 @@
 		<span>${it.radio}</span>
 		${it.label}
 	</label>
-</g:radioGroup>]]></content>
+</g:radioGroup>$0]]></content>
 	<tabTrigger>gradiogroup</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Generates radio button groups</description>

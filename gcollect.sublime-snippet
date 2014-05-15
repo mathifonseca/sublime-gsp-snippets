@@ -2,8 +2,7 @@
 	<content><![CDATA[
 <g:collect in="${1:attribute}" expr="${2:expression}">
 	{3}
-</g:collect>
-]]></content>
+</g:collect>$0]]></content>
 	<tabTrigger>collect</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Uses the Groovy JDK collect method to transform objects in a list by a expression</description>
