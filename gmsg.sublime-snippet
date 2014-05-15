@@ -1,8 +1,8 @@
 <snippet>
 	<content>
-		<![CDATA[<g:message code="${1:foo}" args="[${2:bar}]" />$0]]>
+		<![CDATA[<g:message code="${1:foo}" ${2:args="[${3:bar}]"} />$0]]>
 	</content>
 	<tabTrigger>gmsg</tabTrigger>
 	<scope>text.html.gsp</scope>
-	<description>Resolves a message from the given code</description>
+	<description>Resolves a message from the given code and args (if any)</description>
 </snippet>

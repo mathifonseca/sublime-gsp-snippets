@@ -2,8 +2,7 @@
 	<content><![CDATA[
 <g:findAll in="${1:data}" expr="${2:expression}">
 	{3}
-</g:findAll>
-]]></content>
+</g:findAll>$0]]></content>
 	<tabTrigger>gfindall</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Uses the Groovy JDK findAll method to find objects that match the expression</description>
