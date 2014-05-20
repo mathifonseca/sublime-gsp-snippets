@@ -2,7 +2,7 @@
 	<content>
 		<![CDATA[<g:elseif test="\${${1:true}}">
 	$2
-</g:if>$0]]>
+</g:elseif>$0]]>
 	</content>
 	<tabTrigger>gelseif</tabTrigger>
 	<scope>text.html.gsp</scope>
