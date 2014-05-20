@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<g:select name="${1:name}" from="${2:valuesToSelect}" value="${3:defaultValue}" noSelection="['${4:value}':'${5:noSelectionMsg}']" ${6:multiple="${7:true}"}/>$0]]></content>
+<g:select name="${1:name}" from="${2:valuesToSelect}" value="${3:defaultValue}" noSelection="['${4:value}':'${5:noSelectionMsg}']" ${6:multiple="${7:true}"}/>]]></content>
 	 <tabTrigger>gselect</tabTrigger>
 	 <scope>text.html.gsp</scope>
 	<description>Generates HTML select for the given list</description>

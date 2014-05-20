@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<g:actionSubmit value="${1:text}" action="${2:action}" ${3:onclick="${4:jsCode}"} />$0]]></content>
+<g:actionSubmit value="${1:text}" action="${2:action}" ${3:onclick="${4:jsCode}"} />]]></content>
 	<tabTrigger>gactionsubmit</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Generates a submit button that maps to a specific action</description>

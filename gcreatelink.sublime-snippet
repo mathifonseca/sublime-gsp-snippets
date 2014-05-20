@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<g:createLink controller="${1:book}" action="${2:show}" ${3:params="[${4:name}:${5:'Grails in Action'}]"} />$0]]>
+		<![CDATA[<g:createLink controller="${1:book}" action="${2:show}" ${3:params="[${4:name}:${5:'Grails in Action'}]"} />]]>
 	</content>
 	<tabTrigger>gcreatelink</tabTrigger>
 	<scope>text.html.gsp</scope>

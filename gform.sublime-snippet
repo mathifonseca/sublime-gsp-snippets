@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <g:form name="${1}" url="[controller:'${2:controller}', action:'${3:action}']">
 	${4}
-</g:form>$0]]></content>
+</g:form>]]></content>
 	<tabTrigger>gform</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Creates a form that submits to a controller and action</description>

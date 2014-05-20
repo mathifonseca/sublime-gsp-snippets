@@ -2,7 +2,7 @@
 	<content>
 		<![CDATA[<g:elseif env="${1:development}" ${2:test="\${${3:true}\}"}>
 	$4
-</g:elseif>$0]]>
+</g:elseif>]]>
 	</content>
 	<tabTrigger>gelseifenv</tabTrigger>
 	<scope>text.html.gsp</scope>

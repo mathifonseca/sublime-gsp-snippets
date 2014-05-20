@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<g:img dir="${1:images}" file="${2:logo}.${3:png}" />$0]]>
+		<![CDATA[<g:img dir="${1:images}" file="${2:logo}.${3:png}" />]]>
 	</content>
 	<tabTrigger>gimg</tabTrigger>
 	<scope>text.html.gsp</scope>

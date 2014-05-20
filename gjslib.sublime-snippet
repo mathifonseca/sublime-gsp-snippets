@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<g:javascript library="${1:name}"/>$0]]>
+		<![CDATA[<g:javascript library="${1:name}"/>]]>
 	</content>
 	<tabTrigger>gjslib</tabTrigger>
 	<scope>text.html.gsp</scope>

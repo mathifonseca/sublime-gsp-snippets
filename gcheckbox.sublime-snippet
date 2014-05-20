@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <g:checkBox name="${1:name}" value="${3:value}" checked="${4:false}" />
-<label for="${1:name}">${2:text}</label>$0]]></content>
+<label for="${1:name}">${2:text}</label>]]></content>
 	<tabTrigger>gcheckbox</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Generates a checkbox form field</description>

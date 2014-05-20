@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<g:passwordField name="${1:name}" ${2:value="${3:myPassword}"} ${4:placeholder="${5:text}"} />$0]]></content>
+<g:passwordField name="${1:name}" ${2:value="${3:myPassword}"} ${4:placeholder="${5:text}"} />]]></content>
 	<tabTrigger>gpwd</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Creates a input of type 'password'</description>

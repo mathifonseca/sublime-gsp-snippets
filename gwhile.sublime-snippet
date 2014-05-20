@@ -4,7 +4,7 @@
 <g:while test="${3:condition}">
 	${4}
 	<g:set var="${1:name}" value="${5:otherExpression}"/>
-</g:while>$0]]></content>
+</g:while>]]></content>
 	<tabTrigger>gwhile</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Executes a condition in a loop until the condition returns false</description>

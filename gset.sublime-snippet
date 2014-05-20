@@ -1,6 +1,6 @@
 <snippet>
 	<content>
-		<![CDATA[<g:set var="${1:foo}" value="\${${2:bar}}" />$0]]>
+		<![CDATA[<g:set var="${1:foo}" value="\${${2:bar}}" />]]>
 	</content>
 	<tabTrigger>gset</tabTrigger>
 	<scope>text.html.gsp</scope>

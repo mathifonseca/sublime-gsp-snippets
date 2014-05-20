@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<g:select name="${1:name}" from="${2:valuesToSelect}" noSelection="['${3:value}':'${4:noSelectionMsg}']" optionKey="${5:optionID}" optionValue="${6:optionText}" ${7:multiple="${8:true}"}/>$0]]></content>
+<g:select name="${1:name}" from="${2:valuesToSelect}" noSelection="['${3:value}':'${4:noSelectionMsg}']" optionKey="${5:optionID}" optionValue="${6:optionText}" ${7:multiple="${8:true}"}/>]]></content>
 	 <tabTrigger>gselectbind</tabTrigger>
 	 <scope>text.html.gsp</scope>
 	<description>Generates HTML select for the given list with key-value binding</description>

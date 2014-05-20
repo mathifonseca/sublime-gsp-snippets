@@ -2,7 +2,7 @@
 	<content>
 		<![CDATA[<g:javascript>
 	${1:alert('hello')}
-</g:javascript>$0]]>
+</g:javascript>]]>
 	</content>
 	<tabTrigger>gjs</tabTrigger>
 	<scope>text.html.gsp</scope>

@@ -2,7 +2,7 @@
 	<content>
 		<![CDATA[<g:link controller="${1:book}" action="${2:show}" ${3:params="[${4:name}:${5:'Grails in Action'}]"}>
 	$6
-</g:link>$0]]>
+</g:link>]]>
 	</content>
 	<tabTrigger>glink</tabTrigger>
 	<scope>text.html.gsp</scope>

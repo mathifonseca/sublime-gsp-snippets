@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <g:radio id="${1:id}" name="${3:name}" value="${4:value}"/>
-<label for="${1:id}">${2:text}</label>$0]]></content>
+<label for="${1:id}">${2:text}</label>]]></content>
 	<tabTrigger>gradio</tabTrigger>
 	<scope>text.html.gsp</scope>
 	<description>Generates a radio button</description>
