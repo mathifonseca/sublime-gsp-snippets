@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[\${$0}]]>
+	</content>
+	<tabTrigger>g</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>${}</description>
+</snippet>
