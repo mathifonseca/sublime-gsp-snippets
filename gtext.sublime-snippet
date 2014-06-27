@@ -3,5 +3,5 @@
 <g:textField name="${1:name}" value="${2:defaultText}"></g:textField>]]></content>
 	<tabTrigger>gtext</tabTrigger>
 	<scope>text.html.gsp</scope>
-	<description>Creates a input of type 'text'</description>
+	<description>Creates an input of type 'text'</description>
 </snippet>
