@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<g:textArea name="${1:name}" ${3:value="${4:value}"} ${5:rows="${6:5}"} ${7:cols="${8:40}"} />]]></content>
+	<tabTrigger>gtextarea</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Creates a HTML text area element</description>
+</snippet>

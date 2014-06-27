@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<g:field type="${1:number}" name="${2:name}" ${3:value="${4:value}"} ${5:min="5" max="10"} />]]></content>
+	<tabTrigger>gfield</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Creates an input field where the user can enter data</description>
+</snippet>
