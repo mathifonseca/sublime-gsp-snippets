@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+		<![CDATA[<g:link mapping="${1:bookList}">
+	$2
+</g:link>]]>
+	</content>
+	<tabTrigger>glinkm</tabTrigger>
+	<scope>text.html.gsp</scope>
+	<description>Creates an html anchor tag for the specified named mapping</description>
+</snippet>
